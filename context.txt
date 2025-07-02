@@ -1,0 +1,35 @@
+메인 윈도우: 이일범/Manager/AICC서비스팀님의 쪽지 (PID: 10960)
+윈도우 타이틀: 이일범/Manager/AICC서비스팀님의 쪽지
+클래스명: #32770
+컨트롤 타입: Pane
+자동화ID:
+텍스트: 이일범/Manager/AICC서비스팀님의 쪽지
+    윈도우 타이틀: MsgHtmlView
+    클래스명: Af:66900000:0
+    컨트롤 타입: Pane
+    자동화ID: 1000
+    텍스트: MSgHtmlView
+        윈도우 타이틀:
+        클래스명: Shell Embedding
+        컨트롤 타입: Pane
+        자동화ID:
+        텍스트:
+            윈도우 타이틀:
+            클래스명: Shell DocObject View
+            컨트롤 타입: Pane
+            자동화ID:
+            텍스트:
+                클래스명: Internet Explorer_Server
+                컨트롤 타입: Pane
+                자동화ID:
+                텍스트: about:blank
+                    윈도우 타이틀:
+                    클래스명:
+                    컨트롤 타입: Pane
+                    자동화ID:
+                    텍스트:
+                        윈도우 타이틀: 123123123
+                        클래스명:
+                        컨트롤 타입; Text
+                        자동화ID:
+                        텍스트: 123123123
