@@ -1,6 +1,6 @@
 # Nateonbiz Capture
 
-## dependacy
+## dependancy
 python 3.11
 pywinauto-0.6.9
 psutil-7.0.0
